@@ -28,5 +28,8 @@ If it detects a moodboard, it creates a **photorealistic, aesthetic collage** fo
 
 ### 1️⃣ Clone this repo
 ```bash
-git clone https://github.com/<your-username>/genai-design-assistant.git
+git clone https://github.com/thanush29/genai-design-assistant.git
 cd genai-design-assistant
+
+
+Demo link: https://2675514e9496685501.gradio.live/
